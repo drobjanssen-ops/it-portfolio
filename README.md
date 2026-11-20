@@ -8,13 +8,12 @@ A responsive personal IT portfolio built with plain HTML, CSS, and JavaScript.
 - `script.js` — mobile navigation interaction
 
 ## Before submitting
-1. Your course is set to BS Information
-   Technology (BSIT), 3rd Year.
-3. Replace the sample bio with your own short introduction.
-4. Replace both sample project titles, descriptions, tools, and links with real projects you completed.
-5. Add screenshots of your actual HCI Figma project and SE1/SE2 research. You can place image files in this folder and add an `<img>` element in each project card, or replace the screenshot placeholder with a shareable project link.
-6. Your contact email is set to rmde-vera@ccc.edu.ph
-7. Check that all links work.
+1. Your course is set to BS Information Technology (BSIT), 3rd Year.
+2. Replace the sample bio with your own short introduction.
+3. Replace both sample project titles, descriptions, tools, and links with real projects you completed.
+4. Add screenshots of your actual HCI Figma project and SE1/SE2 research. You can place image files in this folder and add an `<img>` element in each project card, or replace the screenshot placeholder with a shareable project link.
+5. Your contact email is set to rmde-vera@ccc.edu.ph.
+6. Check that all links work.
 
 ## Preview locally
 Open `index.html` in a web browser.
